@@ -1,2 +1,8 @@
-# Connect-4
-Game of Connect 4 and Gomoku
+# Connect 4
+This file contains an implementation of Connect 4 using Python Pygame library.
+
+# Software Dependencies
+pip install pygame 
+
+
+
