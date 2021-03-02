@@ -1,8 +1,9 @@
 # Connect 4
-This repo contains an implementation of Connect 4 using Python's Pygame library.
+An implementation of the game Connect 4. The game interface is created using Python pygame library. The game currently only supports single-player mode against an inbuilt AI. The AI implements the Monte Carlos Tree Search (MCTS) algorithm.
 
-# Software Dependencies
-pip install pygame 
+# Instructions
+> pip install pygame
+> python ConnectFourGame.py
 
 
 
