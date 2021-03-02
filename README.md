@@ -3,6 +3,7 @@ An implementation of the game Connect 4. The game interface is created using Pyt
 
 # Instructions
 > pip install pygame
+> 
 > python ConnectFourGame.py
 
 
